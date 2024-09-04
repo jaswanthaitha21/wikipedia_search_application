@@ -9,10 +9,6 @@ A simple web application that allows users to search for articles on Wikipedia. 
 - Loading Spinner: Shows a spinner while fetching data from the Wikipedia API.
 - Responsive Design: The application is responsive and looks good on all devices.
 
-## Live Demo
-
-[Check out the live demo here](ajnsvwiki.ccbp.tech)
-
 ## Technologies Used
 
 - Frontend: HTML, CSS (Bootstrap)
